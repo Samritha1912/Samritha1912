@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Samritha1912
-- 👀 I’m interested in designing web pages
-- 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning data analytics
+- 💞️ I’m looking to collaborate on any AI/ML projects
+- 📫 How to reach me - samritha1912@gmail.com
 
 <!---
 Samritha1912/Samritha1912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
